@@ -6,7 +6,8 @@ namespace exemplos_chsarp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            DateTimeExample.Run();
+            DateTimeOffsetExample.Run();
         }
     }
 }
