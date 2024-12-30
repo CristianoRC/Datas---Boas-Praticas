@@ -2,7 +2,7 @@ using System;
 
 namespace exemplos_chsarp
 {
-    public class DateTimeOffsetExample
+    public static class DateTimeOffsetExample
     {
         public static void Run()
         {

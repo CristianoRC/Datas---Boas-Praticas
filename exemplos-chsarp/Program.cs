@@ -1,10 +1,8 @@
-﻿using System;
-
-namespace exemplos_chsarp
+﻿namespace exemplos_chsarp
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             DateTimeExample.Run();
             DateTimeOffsetExample.Run();
