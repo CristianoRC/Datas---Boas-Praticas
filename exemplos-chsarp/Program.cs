@@ -6,6 +6,7 @@
         {
             DateTimeExample.Run();
             DateTimeOffsetExample.Run();
+            TimeZoneList.Run();
         }
     }
 }
