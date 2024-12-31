@@ -4,11 +4,11 @@
     {
         static void Main()
         {
-            //DateTimeExample.Run();
-            //DateTimeOffsetExample.Run();
-             TimeZoneList.Run();
+            DateTimeExample.Run();
+            DateTimeOffsetExample.Run();
+            TimeZoneList.Run();
             TimeZoneExample.Run();
-            //TimeStamp.Run();
+            TimeStamp.Run();
         }
     }
 }

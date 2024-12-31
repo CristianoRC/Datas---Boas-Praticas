@@ -13,7 +13,7 @@ public static class TimeZoneList
         {
             table.AddRow(
                 timeZone.Id,
-                $"{timeZone.BaseUtcOffset.Hours:00}:{timeZone.BaseUtcOffset.Minutes:00}",
+                $"{timeZone.BaseUtcOffset.Hours:00}:{Math.Abs(timeZone.BaseUtcOffset.Minutes):00}",
                 timeZone.StandardName
             );
         }
