@@ -6,8 +6,9 @@
         {
             //DateTimeExample.Run();
             //DateTimeOffsetExample.Run();
-            //TimeZoneList.Run();
-            TimeStamp.Run();
+             TimeZoneList.Run();
+            TimeZoneExample.Run();
+            //TimeStamp.Run();
         }
     }
 }
