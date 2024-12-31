@@ -1,4 +1,4 @@
-﻿namespace exemplos_chsarp
+﻿namespace Examples
 {
     class Program
     {

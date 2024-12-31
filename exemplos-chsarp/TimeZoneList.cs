@@ -1,7 +1,7 @@
 using System;
 using ConsoleTables;
 
-namespace exemplos_chsarp;
+namespace Examples;
 
 public static class TimeZoneList
 {
